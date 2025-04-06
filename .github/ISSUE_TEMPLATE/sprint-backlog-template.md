@@ -2,7 +2,7 @@
 name: Sprint-Backlog-Template
 about: '팀 스프린트 백로그 템플릿입니다. '
 title: ''
-labels: ''
+labels: Sprint Backlog
 assignees: ''
 
 ---
