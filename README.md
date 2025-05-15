@@ -3,8 +3,6 @@
 안녕하세요! 미야옹즈(MiAongz)의 Wiki에 오신 여러분을 환영합니다.  
 이곳은 프로젝트 전반의 문서화와 지식 공유를 위한 공간입니다. 📝
 
-<img src="https://github.com/user-attachments/assets/c04a4542-9be0-49e8-add6-73a5ed609c26" width="200" alt="고양이 이미지">
-
 ## 📂 프로젝트별 Wiki 바로가기
 
 | 프로젝트명 | 설명 | Wiki |
@@ -17,3 +15,5 @@
 ---
 
 프로젝트에 대한 전반적인 설명은 각 레포지토리의 Wiki에서 확인하실 수 있습니다.  
+
+<img src="https://github.com/user-attachments/assets/c04a4542-9be0-49e8-add6-73a5ed609c26" width="200" alt="고양이 이미지">
