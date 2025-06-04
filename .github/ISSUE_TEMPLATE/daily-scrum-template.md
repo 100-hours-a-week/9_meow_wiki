@@ -2,8 +2,8 @@
 name: Daily-Scrum-Template
 about: 데일리 스크럼을 위한 템플릿입니다.
 title: 2025-00-00_daily_scrum
-labels: Daily Scrum
-assignees: dyk000825, haebo9, hyehae, jiyeeeah, jungmin827, kimhyungjin1125, sophiness
+labels: Daily Scrum, 회의록
+assignees: jiyeeeah, dyk000825, jungmin827, hyehae, haebo9, kimhyungjin1125, sophiness
 
 ---
 
