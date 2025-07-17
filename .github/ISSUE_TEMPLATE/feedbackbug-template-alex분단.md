@@ -1,5 +1,5 @@
 ---
-name: FeedbackBug-Template
+name: FeedbackBug-Template-alex분단
 about: 상호피드백 템플릿(버그/개선사항)
 title: "[버그] 상호피드백 템플릿"
 labels: "상호피드백 \U0001F9D1‍\U0001F4BB"

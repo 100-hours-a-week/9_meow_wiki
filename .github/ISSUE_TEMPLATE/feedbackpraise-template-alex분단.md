@@ -1,5 +1,5 @@
 ---
-name: FeedbackPraise-Template
+name: FeedbackPraise-Template-alex분단
 about: 상호피드백 템플릿 (칭찬/긍정)
 title: "[칭찬] 상호피드백 템플릿"
 labels: "상호피드백 \U0001F9D1‍\U0001F4BB"
